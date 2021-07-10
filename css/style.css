@@ -810,6 +810,7 @@ a:focus {
 .portfolio {
     position: relative;
     padding: 45px 0 15px 0;
+    max-height: none;
 }
 
 .portfolio #portfolio-filter {
